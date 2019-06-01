@@ -1,0 +1,23 @@
+{
+  "name": "SuperBox",
+  "version": "1.0.2",
+  "authors": [
+    {
+      "name": "Todd Motto (toddmotto)",
+      "homepage": "https://github.com/toddmotto/"
+    },
+    {
+      "name": "Jeroen van Wilgenburg (jvwilge)",
+      "homepage": "https://github.com/jvwilge"
+    }
+  ],
+  "main": "src/superbox.min.js",
+  "ignore": [
+    "node_modules",
+    ".gitignore",
+    "Gruntfile.js",
+    "index.html"  ,
+    "package.json",
+    "README.md"
+  ]
+}
